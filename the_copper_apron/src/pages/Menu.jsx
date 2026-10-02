@@ -201,7 +201,7 @@ export default function Menu() {
 
       {/* No Results Warning */}
       {!isLoading && filteredMenu.length === 0 && (
-        <div className="bg-[#b80303af] text-white text-lg p-10 mx-30 my-10 rounded-xl border-2 border-[#ff0101] text-center">
+        <div className="bg-[#b80303af] text-white text-lg p-10 mx-10 sm:mx-30 my-10 rounded-xl border-2 border-[#ff0101] text-center">
           ⚠ No dishes found matching your criteria. Try another search!
         </div>
       )}

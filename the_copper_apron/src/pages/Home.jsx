@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation, Pagination, Autoplay, EffectFade } from "swiper/modules";
-import food_Home from "../assets/Food_variety.png";
+import food_Home from "../assets/Food_Variety.png";
 import { Link } from "react-router-dom";
 
 // Import Swiper styles

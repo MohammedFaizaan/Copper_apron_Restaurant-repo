@@ -1,4 +1,4 @@
-import logo from "../assets/Copper_Apron_Logo.png";
+import logo from "../assets/Copper_Apron_logo.png";
 
 export default function Footer() {
   const heading = "font-bold text-lg mb-3 text-white";

@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import { useState } from "react";
-import logo from "../assets/Copper_Apron_Logo_Edit.png";
+import logo from "../assets/Copper_Apron_logo_Edit.png";
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);

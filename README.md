@@ -16,9 +16,9 @@ It features real-time state management via Redux Toolkit[cite: 11, 14], live API
 # Screenshots
 
 | Home | Home_Mobile & Home_Mobile hamburger button |
-| ![Home Page](Copper_apron_Restaurant-repo/src/assets/screenshots/home.png) | 
-![Home_Mobile](Copper_apron_Restaurant-repo/src/assets/screenshots/home_mobile.png) | 
-![Home_Nav](Copper_apron_Restaurant-repo/src/assets/screenshots/home_navbar_mobile.png) |
+| ![Home Page](the_copper_apron/src/assets/screenshots/home.png) | 
+![Home_Mobile](the_copper_apron/src/assets/screenshots/home_mobile.png) | 
+![Home_Nav](the_copper_apron/src/assets/screenshots/home_navbar_mobile.png) |
 
 ---
 

@@ -1,7 +1,10 @@
 # Copper_apron_Restaurant-repo
+
 A modern, responsive web application for exploring gourmet menus, customizing item quantities, and managing food orders in real-time. Built using React, Redux Toolkit, Vite, and Tailwind CSS.
 
-🚀 Features
+---
+
+##🚀 Features
 Interactive Home Banner: Featured dishes showcase driven by Swiper with auto-play, custom control buttons, and smooth transitions.
 
 Dynamic Menu & Search: Interactive menu fetching recipes live from DummyJSON API, featuring pagination, instant dish search, and real-time recipe detail overlays (ingredients, calories, ratings, and cuisine).
@@ -12,7 +15,7 @@ Order Tracking UI: Clean interface to manage active food deliveries and track pl
 
 Responsive Dark Theme Design: Aesthetic dark UI built with Tailwind CSS, styled in rich charcoal and amber gold accents.
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 Frontend Library: React (v18+)
 
 Build Tool: Vite
@@ -27,9 +30,9 @@ Carousel / Slider: Swiper
 
 API: DummyJSON Recipes API
 
-📂 Project Structure
+##📂 Project Structure
 Plaintext
-food-web/
+Copper_apron_Restaurant-repo/
 ├── index.html
 ├── package.json
 ├── package-lock.json

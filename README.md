@@ -24,7 +24,7 @@ It features real-time state management via Redux Toolkit[cite: 11, 14], live API
 ## Menu Page
 
 | [Menu](https://github.com/MohammedFaizaan/Copper_apron_Restaurant-repo/blob/main/the_copper_apron/src/assets/screenshots/menu.png) |
-[Menu](https://github.com/MohammedFaizaan/Copper_apron_Restaurant-repo/blob/main/the_copper_apron/src/assets/screenshots/menu_mobile.png) |
+[Menu_Mobile](https://github.com/MohammedFaizaan/Copper_apron_Restaurant-repo/blob/main/the_copper_apron/src/assets/screenshots/menu_mobile.png) |
 
 ## Orders Page
 

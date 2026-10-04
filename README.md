@@ -11,7 +11,7 @@ It features real-time state management via Redux Toolkit[cite: 11, 14], live API
 
 ---
 
-[🚀 View Live Demo]([https://your-food-web-app.vercel.app](https://copper-apron-restaurant-repo-iota.vercel.app))
+[🚀 View Live Demo](https://copper-apron-restaurant-repo-iota.vercel.app)
 
 ---
 

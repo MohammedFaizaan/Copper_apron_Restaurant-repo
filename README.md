@@ -31,35 +31,34 @@ Carousel / Slider: Swiper
 API: DummyJSON Recipes API
 
 ##📂 Project Structure
-Plaintext
 Copper_apron_Restaurant-repo/
-├── index.html
-├── package.json
-├── package-lock.json
-├── vite.config.js
+├── index.html                  # HTML entry document
+├── package.json                # Project dependencies and script scripts
+├── package-lock.json           # Lockfile for dependency tree
+├── vite.config.js              # Vite build configuration
 └── src/
-    ├── main.jsx
+    ├── main.jsx                # Application root mounting file
     ├── app/
-    │   └── store.js
-    ├── assets/
-    ├── components/
+    │   └── store.js            # Redux central store configuration
+    ├── assets/                 # Local image assets and branding
+    ├── components/             # Reusable global UI modules
     │   ├── food_web/
-    │   ├── footer/
-    │   └── navbar/
+    │   ├── footer/             # Site footer component
+    │   └── navbar/             # Navigation bar component
     ├── features/
     │   └── cart/
-    │       └── cartSlice.js
-    └── pages/
+    │       └── cartSlice.js    # Redux cart state reducers & actions
+    └── pages/                  # Main route view components
         ├── about/
-        │   └── About.jsx
+        │   └── About.jsx       # Kitchen mission, vision, and team showcase
         ├── home/
-        │   └── Home.jsx
+        │   └── Home.jsx        # Hero banner, featured dishes slider, top recipes
         ├── menu/
-        │   └── Menu.jsx
+        │   └── Menu.jsx        # Searchable recipes grid, pagination, recipe detail modal
         ├── orders/
-        │   └── Orders.jsx
+        │   └── Orders.jsx      # Active orders list, price calculation, quantity toggles
         └── orders_history/
-            └── Order_History.jsx
+            └── Order_History.jsx # Historical order archive interface
 🚦 Getting Started
 Prerequisites
 Ensure you have Node.js (version 16 or higher) installed on your machine.

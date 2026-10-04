@@ -15,16 +15,27 @@ It features real-time state management via Redux Toolkit[cite: 11, 14], live API
 
 # Screenshots
 
+## Home Page
+
 | [Home](https://github.com/MohammedFaizaan/Copper_apron_Restaurant-repo/blob/main/the_copper_apron/src/assets/screenshots/home.png) | 
 [Home_Mobile](https://github.com/MohammedFaizaan/Copper_apron_Restaurant-repo/blob/main/the_copper_apron/src/assets/screenshots/home_mobile.png) & 
 [Home_Mobile hamburger button](https://github.com/MohammedFaizaan/Copper_apron_Restaurant-repo/blob/main/the_copper_apron/src/assets/screenshots/home_navbar_mobile.png) |
 |.-.|
+
+## Menu Page
+
 | [Menu](https://github.com/MohammedFaizaan/Copper_apron_Restaurant-repo/blob/main/the_copper_apron/src/assets/screenshots/menu.png) |
 [Menu](https://github.com/MohammedFaizaan/Copper_apron_Restaurant-repo/blob/main/the_copper_apron/src/assets/screenshots/menu_mobile.png) |
 |.-.|
+
+## Orders Page
+
 | [Orders](https://github.com/MohammedFaizaan/Copper_apron_Restaurant-repo/blob/main/the_copper_apron/src/assets/screenshots/orders.png) |
 [Orders_Mobile](https://github.com/MohammedFaizaan/Copper_apron_Restaurant-repo/blob/main/the_copper_apron/src/assets/screenshots/orders_mobile.png) |
 |.-.|
+
+## About Page
+
 | [About](https://github.com/MohammedFaizaan/Copper_apron_Restaurant-repo/blob/main/the_copper_apron/src/assets/screenshots/about.png) |
 [About_Mobile](https://github.com/MohammedFaizaan/Copper_apron_Restaurant-repo/blob/main/the_copper_apron/src/assets/screenshots/about_mobile.png) |
 

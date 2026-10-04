@@ -1,3 +1,8 @@
+[![React](https://img.shields.io/badge/React-18-blue?logo=react)](https://react.dev/)
+[![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-2.0-purple?logo=redux)](https://redux-toolkit.js.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38bdf8?logo=tailwindcss)](https://tailwindcss.com/)
+[![Vite](https://img.shields.io/badge/Vite-5.0-646cff?logo=vite)](https://vitejs.dev/)
+
 # Food Web Application 🍽️
 
 Welcome to the Food Web App repository! This is a feature-rich, responsive food ordering and menu exploration web application designed to deliver an intuitive culinary e-commerce experience[cite: 11, 13, 14]. 

@@ -10,8 +10,13 @@ Welcome to the Food Web App repository! This is a feature-rich, responsive food 
 It features real-time state management via Redux Toolkit[cite: 11, 14], live API integrations for dish discovery and nutritional details[cite: 13, 14], interactive hero carousels[cite: 13], and responsive order management UI components[cite: 11, 15].
 
 ---
-
+# Live Link
 [🚀 View Live Demo](https://copper-apron-restaurant-repo-iota.vercel.app)
+
+# Screenshots
+
+| Home | Home_Mobile & Home_Mobile hamburger button |
+| ![Home Page](src/assets/screenshots/home.png) | ![Home_Mobile](src/assets/screenshots/home_mobile.png) | ![Home_Nav](src/assets/screenshots/home_navbar_mobile.png) |
 
 ---
 
